@@ -1,0 +1,13 @@
+node_modules
+build
+dist
+.git
+.trae
+.log
+# Old static files (not needed for React app)
+css
+fonts
+images
+js
+index.html
+diachi.PNG
